@@ -1,0 +1,22 @@
+.events {
+    display: flex;
+}
+
+.event {
+    margin: 10px;
+    border: none;
+    float: left;
+    width: 200px;
+    height: 300px;
+   }
+.event img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 5px;
+    font-weight: 300;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
